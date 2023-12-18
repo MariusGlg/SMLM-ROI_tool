@@ -27,6 +27,7 @@ import os
     Scroll to zoom
     Middle-click to drag and move
     Close window to save file
+    Picasso version <= 0.5.0, datastructure needs to be adapted for verions > 0.5.0
 """
 
 
